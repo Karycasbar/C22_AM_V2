@@ -1,1 +1,2 @@
-# C22_AM_V2
+# PRO-C22
+estructura alámbrica para c22 
